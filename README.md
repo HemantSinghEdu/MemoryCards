@@ -1,8 +1,8 @@
 
-# Memory Palace App
+# Memory Cards App
 
 **Purpose:**
-Memory Palace App is a cross-platform application designed to help users with memory challenges (such as forgetfulness, ADHD, or age-related issues) quickly store, organize, and retrieve their memories. The app uses flash cards, visual maps, reminders, and cognitive games to improve attention and retention, while ensuring privacy and local data storage.
+Memory Cards App is a cross-platform application designed to help users with memory challenges (such as forgetfulness, ADHD, or age-related issues) quickly store, organize, and retrieve their memories. The app uses flash cards, visual maps, reminders, and cognitive games to improve attention and retention, while ensuring privacy and local data storage.
 
 **Project Structure:**
 - **web/**: Web application frontend
